@@ -5,6 +5,8 @@ menu:
   intro:
     parent: resources
     weight: 7
+aliases:
+- get
 ---
 
 A provider may make **functions** available in its SDK as well as resource types. For example, the AWS provider includes the function [`aws.apigateway.getDomainName`](https://www.pulumi.com/registry/packages/aws/api-docs/apigateway/getdomainname/), among many others.
