@@ -150,7 +150,7 @@ The following topics provide more details on the core concepts for working with 
         <p>Learn how Pulumi stores state and manages concurrency.</p>
     </div>
     <div class="md:w-1/2 border-solid md:ml-4 border-t-2 border-gray-200">
-        <h3 class="no-anchor pt-4"><a href="{{< relref "get" >}}"><i class="fas fa-cloud-download-alt pr-2"></i>Getter Functions</a></h3>
-        <p>Learn how to configure stacks for different deployment scenarios.</p>
+        <h3 class="no-anchor pt-4"><a href="{{< relref "functions" >}}"><i class="fas fa-cloud-download-alt pr-2"></i>Provider Functions</a></h3>
+        <p>Learn how to use functions from Pulumi packages.</p>
     </div>
 </div>
